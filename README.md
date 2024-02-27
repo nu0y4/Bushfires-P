@@ -12,25 +12,7 @@ pip install -r kefuck.txt
 python main.py
 ```
 
-```
-          _  __    ______          _
-         | |/ /   |  ____|        | |
-         | ' / ___| |__ _   _  ___| | __
-         |  < / _ \  __| | | |/ __| |/ /
-         | . \  __/ |  | |_| | (__|   <
-         |_|\_\___|_|   \__,_|\___|_|\_\
+![image](https://github.com/soryecker/KeeeeFuck/assets/46450756/3d3b547e-2e53-4a48-aa6c-c90c48e192cb)
 
-                        @面包狗 PuffDog
-
-            #梦想就是你爹的一键日卫星
-[+]1.一键挖洞
-[+]2.扫描子域名
-[+]3.扫描目标内网IP
-[+]4.扫描目标端口
-[+]5.扫描目标url
-[+]0.退出工具
-
-[+]请输入选项:
-```
 ### 该工具拿过小米56个高提醒，过滤后只有30个漏洞
 ![image](https://github.com/soryecker/KeeeeFuck/assets/46450756/6c1f71a6-63dc-4dde-ab70-ca3cd212db21)
