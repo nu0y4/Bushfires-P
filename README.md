@@ -12,4 +12,5 @@ pip install -r kefuck.txt
 python main.py
 ```
 
-![image](https://github.com/soryecker/KeeeeFuck/assets/46450756/3d3b547e-2e53-4a48-aa6c-c90c48e192cb)
+![image](https://github.com/soryecker/KeeeeFuck/assets/46450756/1b012790-ff01-423a-bf52-1e03be030dee)
+
