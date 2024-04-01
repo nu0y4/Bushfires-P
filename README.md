@@ -5,9 +5,9 @@
 
 # 🔥Bushfires🔥 - 🌲Burning through every tree.🌲
 
-![](https://img.shields.io/badge/language-Python-blue.svg)
+![](https://img.shields.io/badge/Language-Python-blue.svg)
 ![](https://img.shields.io/badge/Author-@面包狗-red.svg)
-![](https://img.shields.io/badge/Open-False-red.svg)
+![](https://img.shields.io/badge/OpenSource-False-orange.svg)
 
 ![image](https://github.com/soryecker/KeeeeFuck/assets/46450756/2facf6be-51b4-4d9c-ab24-8970c7c1609a)
 
