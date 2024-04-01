@@ -3,7 +3,7 @@
  
 <img src="https://github.com/soryecker/KeeeeFuck/assets/46450756/b8b57139-e635-4932-ad96-71e0d42b1425" width="300px" height="300px">
 
-# 🔥Bushfires🔥
+# 🔥Bushfires🔥 - 🌲Burning through every tree.🌲
 
 ![image](https://github.com/soryecker/KeeeeFuck/assets/46450756/2facf6be-51b4-4d9c-ab24-8970c7c1609a)
 
