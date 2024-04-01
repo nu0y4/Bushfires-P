@@ -7,7 +7,7 @@
 
 ![image](https://github.com/soryecker/KeeeeFuck/assets/46450756/2facf6be-51b4-4d9c-ab24-8970c7c1609a)
 
-#### ☁️Bushfires 名称灵感来源于自然界中的森林大火现象。在自然界，丛林火灾具有一种无情扫荡一切的力量，它能够迅速蔓延，触及森林中的每一棵树，留下焦土。将这一概念应用于Web信息收集工具，意味着这款工具设计之初就旨在高效、全面地搜集网络上的信息，就如同丛林大火一般，不遗漏任何一个角落，覆盖网络世界的每一处“树木”
+#### ☁️Bushfires - The name is inspired by the phenomenon of forest fires in nature. In the natural world, wildfires possess a relentless power to sweep through everything, capable of spreading quickly and touching every tree in the forest, leaving scorched earth behind. Applying this concept to a web information gathering tool means that from its inception, the tool is designed to efficiently and comprehensively collect information from the web, akin to a wildfire that leaves no corner untouched, covering every "tree" in the digital world.
 
 </div>
 
