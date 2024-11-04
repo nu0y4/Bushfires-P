@@ -1,7 +1,6 @@
 <div align=center>
  
  
-<img src="https://github.com/soryecker/KeeeeFuck/assets/46450756/b8b57139-e635-4932-ad96-71e0d42b1425" width="300px" height="300px">
 
 # 🔥Bushfires🔥 - 🌲Burning through every tree.🌲
 
